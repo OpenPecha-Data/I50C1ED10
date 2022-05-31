@@ -1,0 +1,25 @@
+id: I50C1ED10
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:30:13.748306'
+last_modified: '2022-05-31T05:30:13.748335'
+parser: null
+source_metadata:
+  title: Ngawang Tendar Series
+  language: en
+  description: 'Texts by and about the renowned Mongolian scholar Ngawang Tendar (ngag
+    dbang bstan dar, 1759/1751–1831):'
+  volume:
+    f89D1:
+      title: On Literary Composition
+      base_file: f89D1.txt
+      order: 1
+      parent: Literary Theory
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
